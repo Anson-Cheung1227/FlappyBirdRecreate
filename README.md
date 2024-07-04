@@ -1,4 +1,4 @@
-![Screenshot 2024-07-04 235509](https://github.com/Anson-Cheung1227/FlappyBirdRecreate/assets/97768450/d207e0c6-f540-4a87-8de5-1f6667eb3304)# Flappy Bird Recreate
+# Flappy Bird Recreate
 
 Made in 24 hours :D
 
